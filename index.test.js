@@ -8,3 +8,8 @@ test('that weekNum returns a value', () => {
 test('that weekNum returns a number', () => {
   expect(weekNum).toBeDefined();
 });
+
+// new test 2 added
+test('that true is true', () => {
+  expect(true).toBe(true);
+});
