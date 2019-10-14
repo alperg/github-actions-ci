@@ -10,7 +10,7 @@ function getWeekNumber (d) {
   const weekNum = Math.ceil((((d - yearStart) / 86400000) + 1) / 7)
 
   // testing PR
-  console.log(weekNum)
+  console.log(weekNum);
 
   // Return week number
   return weekNum
