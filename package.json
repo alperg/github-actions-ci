@@ -1,5 +1,5 @@
 {
-  "name": "@bdougie/theweeknum",
+  "name": "@alperg/github-actions-ci",
   "version": "0.1.0",
   "description": "a package that tells you the week number",
   "main": "index.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/bdougie/theWeekNum.git"
+    "url": "git+https://github.com/alperg/github-actions-ci.git"
   },
   "author": "bdougie",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/bdougie/theWeekNum/issues"
+    "url": "https://github.com/alperg/github-actions-ci/issues"
   },
-  "homepage": "https://github.com/bdougie/theWeekNum#readme",
+  "homepage": "https://github.com/alperg/github-actions-ci#readme",
   "devDependencies": {
     "jest": "^24.8.0"
   },
