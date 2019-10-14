@@ -10,6 +10,6 @@ test('that weekNum returns a number', () => {
 });
 
 // new test 2 added
-test('that weekNum returns a number', () => {
-  expect(true).to.be(true);
+test('that true is true', () => {
+  expect(true).toBe(true);
 });
